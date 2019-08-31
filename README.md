@@ -65,16 +65,16 @@ Available at:
 - What is/are the main feature(s) of interest in your dataset?
 - What other features in the dataset do you think will help support your investigation into your feature(s) of interest?
 - Did you create any new variables from existing variables in the dataset?
-- Of the features you investigated, were there any unusual distributions? Did you perform any operations on the data to tidy, adjust, or change the form of the data? If so, why did you do this?
+-  <p align="justify"> Of the features you investigated, were there any unusual distributions? Did you perform any operations on the data to tidy, adjust, or change the form of the data? If so, why did you do this?</p>
 
 ### Bivariate Analysis :
 
-- Talk about some of the relationships you observed in this part of the investigation. How did the feature(s) of interest vary with other features in the dataset?
+- <p align="justify"> Talk about some of the relationships you observed in this part of the investigation. How did the feature(s) of interest vary with other features in the dataset?</p>
 - Did you observe any interesting relationships between the other features (not the main feature(s) of interest)?
 - What was the strongest relationship you found?
 
 ### Multivariate Analysis:
 
-- Talk about some of the relationships you observed in this part of the investigation. Were there features that strengthened each other in terms of looking at your feature(s) of interest?
+- <p align="justify"> Talk about some of the relationships you observed in this part of the investigation. Were there features that strengthened each other in terms of looking at your feature(s) of interest?</p>
 - Were there any interesting or surprising interactions between features?
 - OPTIONAL: Did you create any models with your dataset? Discuss the strengths and limitations of your model.
